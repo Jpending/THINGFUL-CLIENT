@@ -1,0 +1,141 @@
+: "Hand-Painted Rubber Ducky", "content": "This ducky has been hand-painted and is now art. Therefore it is useless and cannot be put in water.", "date_created": "2020-08-27T18:52:21.113Z", "image": "https://loremflickr.com/750/300/landscape?random=1", "user": {
+  "id": 1,
+  "user_name": "dunder",
+  "full_name": "Dunder Mifflin",
+  "date_created": "2020-08-27T18:52:21.113Z"
+}, "number_of_reviews": 4, "average_review_rating": 4
+}, {
+  "id": 2,
+  "title": "Cloning Machine",
+  "content": "100% guaranteed to occasionally work every time! Requires a 167.23v power outlet or a dragonscale battery (obtained separately by solving a riddle).",
+  "date_created": "2020-08-27T18:52:21.113Z",
+  "image": "https://loremflickr.com/750/300/landscape?random=2",
+  "user": {
+    "id": 2,
+    "user_name": "b.deboop",
+    "full_name": "Bodeep Deboop",
+    "nickname": "Bo",
+    "date_created": "2020-08-27T18:52:21.113Z"
+  },
+  "number_of_reviews": 3,
+  "average_review_rating": 2
+}, {
+  "id": 3,
+  "title": "Kangaroo Carrier",
+  "content": "This convenient item can assist you in bringing your kangaroo to your favorite grocery store, or as a conversation starter at a first date or funeral.",
+  "date_created": "2020-08-27T18:52:21.113Z",
+  "image": "https://loremflickr.com/750/300/landscape?random=3",
+  "user": {
+    "id": 3,
+    "user_name": "c.bloggs",
+    "full_name": "Charlie Bloggs",
+    "nickname": "Charlie",
+    "date_created": "2020-08-27T18:52:21.113Z"
+  },
+  "number_of_reviews": 0,
+  "average_review_rating": 0
+}, {
+  "id": 4,
+  "title": "Love Potion #26",
+  "content": "While not as well known as its predecessor, Love Potion #9, this formulation has been proven to be effective in winning the affections of some small amphibians.",
+  "date_created": "2020-08-27T18:52:21.113Z",
+  "image": "https://loremflickr.com/750/300/landscape?random=4",
+  "user": {
+    "id": 4,
+    "user_name": "s.smith",
+    "full_name": "Sam Smith",
+    "nickname": "Sam",
+    "date_created": "2020-08-27T18:52:21.113Z"
+  },
+  "number_of_reviews": 2,
+  "average_review_rating": 2
+}, {
+  "id": 5,
+  "title": "My Freeze Ray",
+  "content": "With this freeze ray, you can stop the world.",
+  "date_created": "2020-08-27T18:52:21.113Z",
+  "image": "https://loremflickr.com/750/300/landscape?random=5",
+  "user": {
+    "id": 5,
+    "user_name": "lexlor",
+    "full_name": "Alex Taylor",
+    "nickname": "Lex",
+    "date_created": "2020-08-27T18:52:21.113Z"
+  },
+  "number_of_reviews": 0,
+  "average_review_rating": 0
+}, {
+  "id": 6,
+  "title": "Personal EMP Generator",
+  "content": "With its guaranteed 10m radius, this discreet device will disable an entire busload of iPhones with the push of a button. It is recommended to include an analog camera which can record the entertaining looks on the faces of those affected, as well as a riot shield in case of mass hysteria.",
+  "date_created": "2020-08-27T18:52:21.113Z",
+  "image": "https://loremflickr.com/750/300/landscape?random=6",
+  "user": {
+    "id": 6,
+    "user_name": "wippy",
+    "full_name": "Ping Won In",
+    "nickname": "Ping",
+    "date_created": "2020-08-27T18:52:21.113Z"
+  },
+  "number_of_reviews": 2,
+  "average_review_rating": 3
+}, {
+  "id": 7,
+  "title": "Foolproof Instant Wealth Pamphlet",
+  "content": "Purchase this pamphlet for $100. Sell this pamphlet to a billion people for $100. Acquisition of this pamphlet is indeed proof of foolishness!",
+  "date_created": "2020-08-27T18:52:21.113Z",
+  "image": "https://loremflickr.com/750/300/landscape?random=7",
+  "user": {
+    "id": 1,
+    "user_name": "dunder",
+    "full_name": "Dunder Mifflin",
+    "date_created": "2020-08-27T18:52:21.113Z"
+  },
+  "number_of_reviews": 4,
+  "average_review_rating": 3
+}, {
+  "id": 8,
+  "title": "Story Water Spigot",
+  "content": "Once installed by a qualified leprechaun, this spigot will produce a steady stream of stories which can be later be adapted to motion pictures which will not be quite as good as the originals.",
+  "date_created": "2020-08-27T18:52:21.113Z",
+  "image": "https://loremflickr.com/750/300/landscape?random=8",
+  "user": {
+    "id": 2,
+    "user_name": "b.deboop",
+    "full_name": "Bodeep Deboop",
+    "nickname": "Bo",
+    "date_created": "2020-08-27T18:52:21.113Z"
+  },
+  "number_of_reviews": 2,
+  "average_review_rating": 4
+}, {
+  "id": 9,
+  "title": "Ruby Red Slippers",
+  "content": "Get home quicker than either Uber or Lyft! Three taps of the heels is all it takes. One size fits all.",
+  "date_created": "2020-08-27T18:52:21.113Z",
+  "image": "https://loremflickr.com/750/300/landscape?random=9",
+  "user": {
+    "id": 3,
+    "user_name": "c.bloggs",
+    "full_name": "Charlie Bloggs",
+    "nickname": "Charlie",
+    "date_created": "2020-08-27T18:52:21.113Z"
+  },
+  "number_of_reviews": 1,
+  "average_review_rating": 3
+}, {
+  "id": 10,
+  "title": "Magic Lamp",
+  "content": "May or may not produce a genie.",
+  "date_created": "2020-08-27T18:52:21.113Z",
+  "image": "https://loremflickr.com/750/300/landscape?random=10",
+  "user": {
+    "id": 4,
+    "user_name": "s.smith",
+    "full_name": "Sam Smith",
+    "nickname": "Sam",
+    "date_created": "2020-08-27T18:52:21.113Z"
+  },
+  "number_of_reviews": 2,
+  "average_review_rating": 4
+}]
